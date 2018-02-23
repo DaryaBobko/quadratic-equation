@@ -2,6 +2,10 @@
 Recall school math!
 
 ## Task
+
+<!--  реализовать функцию которая решает квадратичное уравнение.
+* Каждое равенство имеет точные 2 * целочисленные * решения. 
+Верните эти числа в качестве упорядоченного массива. -->
 Your task is to implement `solveEquation` function, wihch solves Quadratic equation.
 *Each* equality has exact 2 *integer* solutions. Return those numbers as ordered array.
 

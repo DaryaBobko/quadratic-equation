@@ -2,6 +2,14 @@ const assert = require('assert');
 Object.freeze(assert);
 const solveEquation = require('./src/index');
 
+// function describe(a, cb) {
+//   cb();
+// }
+
+// function it(a, cb) {
+//   cb();
+// }
+
 describe('Solve quadratic equation', () => {
   it('1', () => {
     const solutions = solveEquation('-20 * x^2 - 108797540 * x - 130011773690520');
